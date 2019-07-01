@@ -9,3 +9,7 @@ usage:
 3. `node app.js`.
 
 ![Demo](chat_small.gif)
+
+The feed will get populated with the latest 10 available messages.
+
+![Demo2](chat_demo2.gif)
